@@ -1,0 +1,28 @@
+
+# Logs
+logs
+*.log
+
+
+# Node Files #
+**/**/node_modules
+
+# Dist #
+**/**/**/dist
+**/**/**/public
+**/**/**/compiled
+
+# Doc #
+/doc/
+
+# Cache #
+**/**/.awcache
+**/**/.cache
+**/**/.server
+
+
+# Angular #
+*.ngfactory.ts
+*.css.shim.ts
+*.ngsummary.json
+*.shim.ngstyle.ts
