@@ -1,6 +1,6 @@
 ## Angular JIT vs AOT 
 
-Chrome timeline perfomance
+Chrome timeline performance
 ![](https://habrastorage.org/webt/ov/1y/5m/ov1y5mfimskkisme7kewdrailmy.jpeg)
 
 ### Angular 2
