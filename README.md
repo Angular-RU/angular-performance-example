@@ -31,12 +31,11 @@ npm run build:aot:prod
 cd dist && httpserver
 ```
 
-Перейдите по адресу: localhost:8000, откройте Chrome Dev Tools на вкладке perfomance и запустите несколько раз страницу, чтобы посмотреть средние результаты загрузки
+Go to: localhost:8000, open Chrome Dev Tools on the perfomance tab, and run the page several times to see the average download results
 
 ### Angular 5+
 
 Usage AOT `ng build --aot --prod` or JIT `ng build --no-aot --prod --build-optimizer false`
 
-### Примечание
-* Я устанавливал себе глобально httpserver
-* В версии Angular 2 сборка падает, однако, файлы успешно компилируются, после чего можно запускать локальный веб-сервер (проблема решилась в Angular 4)
+### Note
+* In the version of Angular 2, the assembly drops, however, the files are successfully compiled, after which you can start the local web server (the problem was solved in Angular 4)
