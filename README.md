@@ -39,3 +39,5 @@ Usage AOT `ng build --aot --prod` or JIT `ng build --no-aot --prod --build-optim
 
 ### Note
 * In the version of Angular 2, the assembly drops, however, the files are successfully compiled, after which you can start the local web server (the problem was solved in Angular 4)
+
+jsfiddle: http://jsfiddle.net/dhfag8w4/
